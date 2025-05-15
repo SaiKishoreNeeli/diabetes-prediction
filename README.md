@@ -1,3 +1,4 @@
+# EDUNET - MICROSOFT FOUNDATION ARTIFICIAL INTELLIGENCE INTERNSHIP APRIL 2025 BATCH BY AICTE PLATFORM
 # Diabetes Prediction using Machine Learning
 
 This project predicts whether a person has diabetes based on diagnostic measurements. It uses machine learning models trained on the Pima Indians Diabetes Dataset.
